@@ -2,32 +2,32 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : 1193102860                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           : cn                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+playstore_link                            : io.moreless.islanding                     # Enter Google Play Store URL.
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : 岛读，一个极简主义的每日阅读应用。在这里，你不止能发现值得一看的好文章，还能遇见和你一样认真有趣的人。从散文到诗歌、从小说到随笔，每天用上几分钟，与更有趣的灵魂对话，为你的心灵注入光芒。
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : 陆岛网络科技                              
+your_link                                 : https://islanding.anisland.club                
+your_city                                 : HangZhou                                
+email_address                             : hi@anisland.club
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
 
 
@@ -35,41 +35,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : 每天一篇好文章
+    description                           : 人生 如一期一会 人间 却一天一变 今天我们就 不如约在今天见
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : 有趣的灵魂终会相遇
+    description                           : 与有趣的灵魂相遇，是我们认知这个世界最美好的方式
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : 在阅读沉淀
+    description                           : 举一纲而万目张，解一卷而众篇明。
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : 极简的夜间模式
+    description                           : 黑夜给了我黑色的眼睛，我却用它寻找光明。
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : # Easy to Tweak
+    description                           : # Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : # Feature List
+    description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : # Smart App Banner
+    description                           : # Display a smart app banner on iOS devices.
+    fontawesome_icon_name                 : # arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : # Social Links
+    description                           : # Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : # FontAwesome Support
+    description                           : # Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    fontawesome_icon_name                 : # info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -82,7 +82,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 

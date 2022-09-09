@@ -2,64 +2,239 @@
 layout: page
 title: What's New
 include_in_header: true
+
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+# 版本记录
 
-<br>
+### 23.6
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+玉帛朝回望帝乡，乌孙归去不称王。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+天涯静处无征战，兵气销为日月光。
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+—— 《塞下曲四首·其一》，常建
 
-<br>
+本次更新
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- 修复了每日提醒无法设置的问题
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 修复了其他已知问题
 
-<br>
+给我们写信：hi@moreless.io
 
-________
-<br>
+### 23.5
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+爆竹声中一岁除，春风送暖入屠苏；千门万户瞳瞳日，总把新桃换旧符。
 
-<br>
+——《元日》，王安石
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+本次更新：
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 修复 部分BUG
 
-<br>
+### 23.4
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+爆竹声中一岁除，春风送暖入屠苏；千门万户瞳瞳日，总把新桃换旧符。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+——《元日》，王安石
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+本次更新：
 
-<br>
+- 优化 夜间模式切换
+
+- 优化 繁体字切换
+
+- 优化 喜欢的文章隐私设置
+
+- 修复 部分BUG
+
+近期更新：
+
+- 新增 通过 Apple 登录
+
+- 新增 解除账号绑定功能
+
+- 优化 启动动画
+
+### 23.3
+
+我们不顾心灵桎梏，沉溺于人世浮华，专注于利益法则，我们把自己弄丢了。
+
+——《小王子》，圣·埃克苏佩里
+
+本次更新：
+
+- 新增 通过 Apple 登录
+
+- 新增 解除账号绑定功能
+
+- 优化 启动动画
+
+近期更新：
+
+- 优化 网络请求
+
+- 修复 部分BUG
+
+### 23.2
+
+尽挹西江，细斟北斗，万象为宾客。扣舷独啸，不知今夕何夕。
+
+——《念奴娇·过洞庭》，张孝祥
+
+本次更新：
+
+- 优化网络请求
+
+- 修复部分BUG
+
+近期更新：
+
+- 适配 iOS13
+
+- 优化深色模式
+
+### 23.1
+
+惜秦皇汉武，略输文采；唐宗宋祖，稍逊风骚。一代天骄，成吉思汗，只识弯弓射大雕。
+
+俱往矣，数风流人物，还看今朝。
+
+——《沁园春·雪》，毛泽东
+
+本次更新：
+
+- 适配 iOS13
+
+- 优化深色模式
+
+近期更新：
+
+- 适配深色模式
+
+### 23.0
+
+清溪流过碧山头，空水澄鲜一色秋。隔断红尘三十里，白云红叶两悠悠。
+
+——《秋月》，朱熹
+
+本次更新：
+
+- 适配深色模式
+
+近期更新：
+
+- 修复部分用户不可以打卡的问题
+
+### 2.2.12
+
+行路难，不在水，不在山，只在人情反覆间！
+
+——《太行路》，白居易
+
+本次更新：
+
+- 修复部分用户不可以打卡的问题
+
+近期更新：
+
+- 优化网络请求
+
+### 2.2.11
+
+惆怅孤帆连夜发，送行淡月微云。尊前不用翠眉颦。人生如逆旅，我亦是行人。
+
+——《临江仙·送钱穆父》，苏轼
+
+本次更新：
+
+- 优化网络请求
+
+- 修复若干小问题
+
+近期更新：
+
+- 修复繁体语言下显示不正确的问题
+
+### 2.2.10
+
+红衣佳人白衣友，朝与同歌暮同酒。世人谓我恋长安，其实只恋长安某。
+
+——《我亦好歌亦好酒》，殊同
+
+本次更新：
+
+- 修复繁体语言下显示不正确的问题
+
+近期更新：
+
+- 修复若干小问题
+
+### 2.2.9
+
+少而好學，如日出之陽；壯而好學，如日中之光；老而好學，如炳燭之明。
+
+—— 《說苑·建本》，劉向
+
+本次更新：
+
+- 修復若干小問題
+
+近期更新：
+
+- 新增文章推薦
+
+### 2.2.8
+
+生命不必每时每刻都要冲刺，低沉时就当是放一个悠长假期。
+
+—— 《悠长假期》，北川悅吏子
+
+本次更新：
+
+- 修复若干小问题
+
+近期更新：
+
+- 新增文章推荐
+
+### 2.2.7
+
+风里带着些新翻泥土的气息，混着青草味儿，还有各种花的香，都在微微湿润的空气里酝酿。
+
+—— 《春》，朱自清
+
+本次更新：
+
+- 修复若干小问题
+
+近期更新：
+
+- 新增文章推荐
+
+- 个人页面新增字数统计
+
+- 重新优化日历页样式，支持切换年份
+
+### 2.2.6
+
+人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。
+
+—— 《千与千寻》，宫崎骏
+
+本次更新：
+
+- 新增文章推荐
+
+- 修复若干小问题
+
+近期更新：
+
+- 繁体下新增评论简繁转化
+
+- 探索页新增文章卡片
+
+- 个人页面新增字数统计
+
+- 重新优化日历页样式，支持切换年份
